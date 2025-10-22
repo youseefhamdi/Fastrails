@@ -1,4 +1,4 @@
-module github.com/rix4uni/haktrailsfree
+module github.com/youseefhamdi/Fastrails
 
 go 1.25.1
 
