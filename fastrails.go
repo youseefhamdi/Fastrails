@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/spf13/pflag"
-	"github.com/rix4uni/haktrailsfree/banner"
+	"github.com/youseefhamdi/Fastrails"
 )
 
 const (
