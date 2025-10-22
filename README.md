@@ -10,7 +10,8 @@ Steps to Collect cookie:
 
 ## Installation
 ```
-go install github.com/youseefhamdi/Fastrails.git
+go install github.com/youseefhamdi/Fastrails@latest
+
 ```
 
 ## Compile from source
