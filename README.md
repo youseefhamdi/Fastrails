@@ -13,7 +13,7 @@ https://youtu.be/-hcMPTNE2ko
 
 ## Installation
 ```
-go install github.com/rix4uni/haktrailsfree@latest
+go install github.com/youseefhamdi/Fastrails.git
 ```
 
 ## Download prebuilt binaries
