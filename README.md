@@ -3,11 +3,11 @@
 A powerful Go-based subdomain enumeration tool that leverages SecurityTrails website data via cookie authentication. Bypass API limitations and retrieve up to **10,000+ subdomains** instead of the free tier's 2,000 limit.
 
 ```
-  _____           _   _____       _ _     
- |  ___|_ _  __ _| |_|  __ \     (_) |    
- | |_ / _' |/ _' | __| |__) |__ _ _| |___ 
- |  _| (_| | (_| | |_|  _  // _' | | / __|
- |_|  \__,_|\__,_|\__|_| \_\__,_|_|_\___|
+   _______ ______ ______ ______ _____  ______ _____ __   ______
+  / _____// __  //_____//_____// ____)/ __  //_  _// /  /_____/
+ / /___  / /_/ /(_____   / /  / /\ \ / /_/ /_/ /_ / /__(_____            
+/_/      \___,/ /_____) /_/  /_/  \_\\___,//____//____//_____)
+
 ```
 
 ## 🌟 Features
