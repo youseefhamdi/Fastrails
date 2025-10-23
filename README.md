@@ -95,6 +95,9 @@ curl 'https://securitytrails.com/list/apex_domain/tesla.com?page=1' \
 
 The tool will automatically extract the User-Agent and Cookie from this file.
 
+<img width="1917" height="1000" alt="Screenshot 2025-10-23 205801" src="https://github.com/user-attachments/assets/ddcb0f0a-0f52-4f2a-8acc-6887a75181b9" />
+
+
 ## 🚀 Usage
 
 ### Basic Examples
@@ -306,6 +309,15 @@ support.apple.com
 mail.google.com
 ...
 ```
+### Video 
+```
+
+
+https://github.com/user-attachments/assets/bd060544-2fed-4102-82ca-a6d790a438b7
+
+
+
+```
 
 ## 🤝 Contributing
 
@@ -325,28 +337,6 @@ MIT License - See LICENSE file for details
 
 **youseefhamdi**
 - GitHub: [@youseefhamdi](https://github.com/youseefhamdi)
-
-## 🙏 Acknowledgments
-
-- Original concept inspired by haktrailsfree by rix4uni
-- SecurityTrails for providing subdomain data
-- The bug bounty community
-
-## 📞 Support
-
-If you encounter issues:
-- Check the [Troubleshooting](#-troubleshooting) section
-- Open an issue on GitHub
-- Make sure you're using the latest version
-
-## 🎯 Roadmap
-
-- [ ] Add JSON output format
-- [ ] Implement concurrent processing
-- [ ] Add proxy support
-- [ ] Create Docker image
-- [ ] Add CI/CD pipeline
-- [ ] Support for other data sources
 
 ---
 
