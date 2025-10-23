@@ -284,8 +284,9 @@ mail.google.com
 ```
 
 ### 🎥 Demo Video
+```
 https://github.com/user-attachments/assets/77b64860-4ead-4d61-b9e1-d761df5952fc
-
+```
 
 ## 🤝 Contributing
 
